@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\bin\Debug\net6.0\задача_41.exe
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\bin\Debug\net6.0\задача_41.deps.json
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\bin\Debug\net6.0\задача_41.runtimeconfig.json
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\bin\Debug\net6.0\задача_41.dll
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\bin\Debug\net6.0\задача_41.pdb
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\задача_41.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\задача_41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\задача_41.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\задача_41.AssemblyInfo.cs
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\задача_41.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\задача_41.dll
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\refint\задача_41.dll
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\задача_41.pdb
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\задача_41.genruntimeconfig.cache
+D:\Users\User\Desktop\Домашняя работа к семинару 6\задача_41\obj\Debug\net6.0\ref\задача_41.dll
